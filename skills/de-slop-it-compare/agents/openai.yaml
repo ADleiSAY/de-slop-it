@@ -1,0 +1,5 @@
+interface:
+  display_name: "de-slop-it 对比学习"
+  short_description: "明确调用后比较原稿与人为修改稿，提炼方法论，按要求写回规则文件"
+policy:
+  allow_implicit_invocation: false
